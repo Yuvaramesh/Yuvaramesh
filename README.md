@@ -1,10 +1,8 @@
 <h1 align="center">Hi👋, I'm Yuva Sri R</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<p align="center"><img src="![code](https://github.com/Yuvaramesh/Yuvaramesh/assets/122080340/299f5015-1156-430f-b40f-c29812bb7549)" width="auto" height="400"> </p>
+<p align="center"><img src="https://github.com/Yuvaramesh/Yuvaramesh/assets/122080340/299f5015-1156-430f-b40f-c29812bb7549" width="auto" height="400"> </p>
 
-<p align="center">
- <img width="auto" src="![code](https://github.com/Yuvaramesh/Yuvaramesh/assets/122080340/e30a554c-5f56-4911-8013-f2786ae262c0)" height="400">
-</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvaramesh" alt="yuvaramesh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
