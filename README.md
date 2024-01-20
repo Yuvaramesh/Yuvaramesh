@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaramesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvaramesh" alt="yuvaramesh" /></a> </p>
-.🌱I am currently learning Machine Learning, Data Science.
-. 👨‍💻 Blog <a href="https://yuvasrirportfolio.netlify.app"> **yuvasrirportfolio.netlify.app** </a>
+- 🌱 I’m currently learning **Machine Learning, Data Science**
+
+- 👨‍💻 Blog [https://yuvasrirportfolio.netlify.app](https://yuvasrirportfolio.netlify.app)
 
 - 📫 How to reach me **ryuvasri01@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
