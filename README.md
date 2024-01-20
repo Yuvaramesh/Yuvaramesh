@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
-- 👨‍💻 Blog [https://yuvasrirportfolio.netlify.app](https://yuvasrirportfolio.netlify.app)
+- 👨‍💻 Blog **yuvasrirportfolio**(https://yuvasrirportfolio.netlify.app)
 
 - 📫 How to reach me **ryuvasri01@gmail.com**
 
