@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvaramesh" alt="yuvaramesh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at yuvasrirportfolio.netlify.app
+ <a href="yuvasrirportfolio.netlify.app">- 👨‍💻 All of my projects are available at</a>
 
 - 📫 How to reach me **ryuvasri01@gmail.com**
 
