@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvaramesh" alt="yuvaramesh" /></a> </p>
 - 🌱I am currently learning Machine Learning, Data Science.
--  👨‍💻 Blog <a href="https://yuvasrirportfolio.netlify.app"> **yuvasrirportfolio.netlify.app** </a>
+- 👨‍💻 Blog <a href="https://yuvasrirportfolio.netlify.app"> **yuvasrirportfolio.netlify.app** </a>
 
 - 📫 How to reach me **ryuvasri01@gmail.com**
 
