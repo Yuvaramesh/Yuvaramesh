@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuva Sri R</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-
+<p align="center"><img src="https://github.com/Yuvaramesh/Yuvaramesh/assets/122080340/97dc1ce2-1bf9-4d73-9553-78d71a017db8" width="auto" height="400"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaramesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvaramesh" alt="yuvaramesh" /></a> </p>
 
- - 👨‍💻 All of my projects are available at<a href="yuvasrirportfolio.netlify.app">yuvasrirportfolio.netlify.app</a>
+ - 👨‍💻 All of my projects are available at<a href="yuvasrirportfolio.netlify.app"> yuvasrirportfolio.netlify.app</a>
 
 - 📫 How to reach me **ryuvasri01@gmail.com**
 
