@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuva Sri R</h1>
+<h1 align="center">Hi👋, I'm Yuva Sri R</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <p align="center"><img src="https://github.com/Yuvaramesh/Yuvaramesh/assets/122080340/97dc1ce2-1bf9-4d73-9553-78d71a017db8" width="auto" height="400"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaramesh" /> </p>
