@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Yuva Sri R</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate AI & ML Engineer</h3>
 <p align="center"><img src="https://github.com/Yuvaramesh/Yuvaramesh/assets/122080340/f77e62a2-31a3-4a1e-96b4-33a4463ab89e" width="auto" height="400"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaramesh" /> </p>
 
