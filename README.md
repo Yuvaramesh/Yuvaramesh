@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Yuva Sri R</h1>
 <h3 align="center">A passionate AI & ML Engineer</h3>
-<p align="center"><img src="https://github.com/Yuvaramesh/Yuvaramesh/assets/122080340/f77e62a2-31a3-4a1e-96b4-33a4463ab89e" width="auto" height="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="auto" height="400"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaramesh&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaramesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvaramesh" alt="yuvaramesh" /></a> </p>
