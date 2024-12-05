@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvaramesh" alt="yuvaramesh" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Machine Learning, Automated Testing, Data Science**
 
 - 👨‍💻 Portfolio <a href="https://yuvasrirportfolio.netlify.app"> **yuvasrirportfolio** </a>
 
