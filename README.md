@@ -6,7 +6,7 @@
 
 ### <div align="center">🔗 Professional Links</div>
 <p align="center">
-  <a href="https://yuvasrirportfolio.netlify.app" target="_blank">
+  <a href="https://yuva-sri-ramesh-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/yuva-sri-r-a6a6a5248/" target="_blank">
