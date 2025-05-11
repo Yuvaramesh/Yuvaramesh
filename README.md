@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Yuva+Sri+R;AI+Engineer;AI+Automation;Python+Developer" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Yuva+Sri+R;AI+Engineer;AI+Automation+Developer;Python+Developer" alt="Animated Header" />
 </div>
+
 <div align="center">
   <img src="https://camo.githubusercontent.com/4b31ead27c30a71d6025bec82381859d3f2128386ff7eb1f9a229cb0e95cf5a5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d325f303746765f712d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6769746875622e636f6d2f4d6973684d616e6e6572732f4d6973684d616e6e6572732f7261772f6d61737465722f4d6973684d616e6e6572732532353230526f6f6d2532353230616e696d617465642e676966" />
 </div>
