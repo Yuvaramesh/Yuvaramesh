@@ -103,7 +103,18 @@
 ---
 
 
+<div align="center">
 
+<!-- Skill Badges -->
+  
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Yuvaramesh&theme=gold&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
+---
 
 ### <div align="center">🔗 Get In Touch</div>
 <p align="center">
