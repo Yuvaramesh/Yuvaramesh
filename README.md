@@ -103,13 +103,12 @@
 ---
 
 
+### <div align="center"> 🏆GitHub Stats </div>
 <div align="center">
-## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Yuvaramesh&theme=gruvbox&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Yuvaramesh&theme=gruvbox&no-frame=true&margin-w=10&column=9" alt="GitHub Trophies"/>
 
 </div>
-
 
 ---
 
