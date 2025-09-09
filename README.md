@@ -84,35 +84,88 @@
 
 ---
 
+# 📊 Dynamic GitHub Profile Stats
+
 <div align="center">
 
-### 📊 GitHub Stats
+## 🔥 GitHub Activity Overview
 
-<!-- Bigger Streak in Center -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaramesh&theme=tokyonight&ring=DD2727&fire=DD2727&sideLabels=DD2727&currStreakLabel=DD2727" height="250"/>
+<!-- Main Streak Stats with Enhanced Styling -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaramesh&theme=tokyonight&ring=DD2727&fire=DD2727&sideLabels=DD2727&currStreakLabel=DD2727&hide_border=true&stroke=0000&background=0D1117&dates=C9D1D9" height="250"/>
+
+<br/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaramesh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=79C0FF&line=DD2727&point=C9D1D9&area_color=DD2727&title_color=58A6FF&area=true" height="300"/>
 
 <br/><br/>
 
-<!-- Smaller Two Stats Below in Row -->
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+## 📈 Detailed Statistics
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvaramesh&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false" height="170"/>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaramesh&layout=compact&theme=tokyonight" height="170"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Yuvaramesh&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=30363D" height="200"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaramesh&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8" height="200"/>
 
 </div>
 
----
+<br/>
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Yuvaramesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="50%"/>
+
+<br/>
+
+## 📊 Contribution Metrics
 
 
-### <div align="center"> 🏆GitHub Stats </div>
+
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvaramesh&theme=tokyonight" width="80%"/>
+
+
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvaramesh&theme=tokyonight" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvaramesh&theme=tokyonight" height="180"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvaramesh&theme=tokyonight" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvaramesh&theme=tokyonight&utcOffset=5.5" height="180"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yuvaramesh&theme=gruvbox&no-frame=true&margin-w=10&column=9" alt="GitHub Trophies"/>
+
+<br/>
+
+## 🎯 Key Metrics
+
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+
+[![GitHub followers](https://img.shields.io/github/followers/Yuvaramesh?label=Followers&style=for-the-badge&color=DD2727&labelColor=0D1117)](https://github.com/Yuvaramesh)
+[![GitHub stars](https://img.shields.io/github/stars/Yuvaramesh?label=Stars&style=for-the-badge&color=79C0FF&labelColor=0D1117)](https://github.com/Yuvaramesh)
 
 </div>
 
----
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvaramesh&style=for-the-badge&color=DD2727&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+</div>
 
 ### <div align="center">🔗 Get In Touch</div>
 <p align="center">
