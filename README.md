@@ -84,7 +84,6 @@
 
 ---
 
-# 📊 Dynamic GitHub Profile Stats
 
 <div align="center">
 
@@ -102,7 +101,7 @@
 
 ## 📈 Detailed Statistics
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Yuvaramesh&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=30363D" height="200"/>
